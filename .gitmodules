@@ -1,0 +1,3 @@
+[submodule "tcp-modbus-delta-test"]
+	path = tcp-modbus-delta-test
+	url = https://github.com/ramsesrago/tcp-modbus-delta-test.git
